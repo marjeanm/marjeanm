@@ -5,7 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-🌱 Currently Learning: Advancing my skills in cybersecurity with a focus on network security, threat detection, and incident response. Currently exploring MongoDB for secure data management, while enhancing my expertise in Node.js for secure web application development and building secure, scalable systems.
-🚀 Projects in Progress: Working on securing networks using IDS/IPS solutions, developing security protocols for web applications, and contributing to a cybersecurity blog where I share insights on securing IT infrastructures and cloud environments.
-💬 Ask Me About: Cybersecurity best practices, network defense, secure coding, cloud security, and my experiences with security tools like Splunk, Snort, and Juniper Networks.
-⚡ Fun Fact: When I’m not improving my security skills, I’m diving into Marvel’s universe or exploring the immersive worlds of Bethesda and Microsoft Studios
+🌱 Currently Learning: Diving deeper into cybersecurity concepts, focusing on legal and privacy issues. I’m building a basic chatbot and applying security principles to enhance its functionality.
+
+🚀 Projects in Progress: Developing a cybersecurity blog to share insights on securing networks and data, contributing to a Facebook education media platform, and working on a chatbot with an emphasis on secure coding practices and privacy.
+
+💬 Ask Me About: Cybersecurity best practices, legal and privacy regulations in tech, chatbot development, and my latest blog posts on securing digital environments.
+
+⚡ Fun Fact: A huge fan of Marvel and Bethesda/Microsoft Studios, combining my love for tech with an interest in gaming!
