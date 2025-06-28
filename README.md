@@ -1,14 +1,35 @@
-### Hi there 👋
+# 🛡️ Marjean Mayo-Baker – Cybersecurity Engineer | Builder of Systems, Not Just Scripts
 
-<!--
-**marjeanm/marjeanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Cybersecurity Engineer building real-world solutions at the intersection of system defense, automation, and ethical AI.
 
-Here are some ideas to get you started:
--->
-🌱 Currently Learning: Diving deeper into cybersecurity concepts, focusing on legal and privacy issues. I’m building a basic chatbot and applying security principles to enhance its functionality.
+With 14+ years in IT and a current pivot into cybersecurity, I’ve already:
 
-🚀 Projects in Progress: Developing a cybersecurity blog to share insights on securing networks and data, contributing to a Facebook education media platform, and working on a chatbot with an emphasis on secure coding practices and privacy.
+Deployed hardened Linux systems with custom PKI
 
-💬 Ask Me About: Cybersecurity best practices, legal and privacy regulations in tech, chatbot development, and my latest blog posts on securing digital environments.
+Written Bash scripts to automate provisioning and backups
 
-⚡ Fun Fact: A huge fan of Marvel and Bethesda/Microsoft Studios, combining my love for tech with an interest in gaming!
+Built a generative AI assistant (NullCypher) that supports neurodivergent analysts like me
+
+Delivered layered IDS/IPS strategies using Splunk, Snort, and Microsoft Defender
+
+Worked hands-on with Zscaler, VMware Horizon, Security Onion, and Entra ID
+
+I don’t just study cybersecurity — I live it, break it, document it, and rebuild smarter. My projects reflect the work I actually do, not what a title gave me permission to do.
+### 🔧 Current Projects
+- `NullCypher`: Generative AI assistant built for neurodivergent cybersecurity workflows
+- `secure-host-hardening-and-pki`: End-to-end OpenSSL-based PKI setup with hardened Linux deployments
+- `bash-system-provisioning`: Admin automation & redundant backup scripting
+- `network_security`: IDS/IPS strategy and defense-in-depth report for a multi-store retail chain
+
+### 🧠 Specialties
+- Security automation (Bash, PowerShell)
+- Identity & access management
+- Log analysis & incident response
+- Ethical AI & system usability for overlooked brains
+
+### 🧰 Tools
+Security Onion · Zscaler · Splunk · OpenSSL · Entra ID · Git · Wireshark · Notion · GitHub Pages
+
+> “I don’t just patch systems. I fix the logic that breaks them.”
+
+📍 Ohio, USA | Always building. Always learning.
