@@ -32,4 +32,25 @@ Security Onion · Zscaler · Splunk · OpenSSL · Entra ID · Git · Wireshark �
 
 > “I don’t just patch systems. I fix the logic that breaks them.”
 
+##  ⚠️ Site-Wide Disclaimer: GitHub Under Construction
+Welcome to my GitHub.
+It’s not broken — it’s actively being rebuilt from the inside out.
+
+This entire space is mid-refactor, mid-renaming, mid-cleaning, and mid-identity shift. You may see:
+
+💥 Half-baked scripts with zero context
+
+🔁 Duplicate or legacy repos waiting to be archived
+
+🧠 Notes that make sense only to me (for now)
+
+⚠️ Projects in active mutation with unfinished docs, missing screenshots, and chaotic commit logs
+
+I'm not hiding the mess — because this is what building looks like when you’re actually doing the work, not just demoing the results.
+
+If you're here to lurk, recruit, or learn: welcome.
+If you're here to judge based on polish instead of power: wrong repo.
+
+This is real dev energy in a neurodivergent system. Come back when it’s clean — or stick around and watch it evolve.
+
 📍 Ohio, USA | Always building. Always learning.
