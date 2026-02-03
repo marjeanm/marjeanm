@@ -1,5 +1,5 @@
 # Marjean Mayo-Baker
-**Software Engineer | Security Specialist | Builder of Things That Actually Work**
+Software Engineer | Security & IAM Specialist | Building AI-Powered Security Solutions | Python • JavaScript • C++
 
 🎓 B.S. Cybersecurity, Summa Cum Laude | M.S. Cybersecurity (In Progress)
 🔐 ISC² CC Certified | Security+ (In Progress)
